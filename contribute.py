@@ -113,7 +113,7 @@ def arguments(argsval):
                         to the repository. The link is accepted in SSH or HTTPS
                         format. For example: git@github.com:user/repo.git or
                         https://github.com/user/repo.git""")
-    parser.add_argument('-un', '--user_name', type=str, required=False, default="arthurchen330",
+    parser.add_argument('-un', '--user_name', type=str, required=False, default="crazycoding330",
                         help="""Overrides user.name git config.
                         If not specified, the global config is used.""")
     parser.add_argument('-ue', '--user_email', type=str, required=False, default="arthur.chen330@gmail.com",
