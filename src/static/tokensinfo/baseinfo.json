@@ -1,0 +1,30 @@
+[
+    {
+        "Name" : "Black Dragon" ,
+        "Symbol" : "BDT" ,
+        "Pair" : "ETH" ,
+        "Address" : "0x4Efe8665e564bF454cCF5C90Ee16817F7485d5Cf",
+        "Logo" : "https://s2.coinmarketcap.com/static/img/coins/64x64/7763.png"
+    },
+    {
+        "Name" : "Nexo" ,
+        "Symbol" : "NEXO" ,
+        "Pair" : "ETH" ,
+        "Address" : "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+        "Logo" : "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png"
+    },
+    {
+        "Name" : "Harmony" ,
+        "Symbol" : "ONE" ,
+        "Pair" : "USDT" ,
+        "Address" : "0x4Efe8665e564bF454cCF5C90Ee16817F7485d5Cf",
+        "Logo" : "https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png"
+    },
+    {
+        "Name" : "The Sandbox" ,
+        "Symbol" : "SAND" ,
+        "Pair" : "ETH" ,
+        "Address" : "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+        "Logo" : "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
+    }
+]
